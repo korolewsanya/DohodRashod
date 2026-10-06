@@ -56,15 +56,14 @@
 <summary>👉 Нажмите, чтобы развернуть скриншоты</summary>
 <br>
 
-| Главный экран | Ввод дохода | Ввод расхода |
+| Главный экран | Ввод суммы | Выбор категории |
 | :---: | :---: | :---: |
-| <img src="screenshots/Glav.png" width="200"> | <img src="screenshots/WodDoh.png" width="200"> | <img src="screenshots/WodRas.png" width="200"> |
-| **Выбор категории дохода** | **Выбор категории расхода** | **Создание категории** |
-| <img src="screenshots/SohDoh.png" width="200"> | <img src="screenshots/SohRas.png" width="200"> | <img src="screenshots/SozPapki.png" width="200"> |
-| **Просмотр доходов** | **Редактирование** | **Удаление** |
-| <img src="screenshots/ProsmotDoh.png" width="200"> | <img src="screenshots/RedactDoh.png" width="200"> | <img src="screenshots/UdDoh.png" width="200"> |
-| **Сравнение** | | |
-| <img src="screenshots/Sravni.png" width="200"> | | |
+| <img src="screenshots/Главная.png" width="200"> | <img src="screenshots/Ввод.png" width="200"> | <img src="screenshots/ВыборКатегории.png" width="200"> |
+| **Список доходов** | **Список расходов** | **Сравнение** |
+| <img src="screenshots/СписокДоходов.png" width="200"> | <img src="screenshots/СписокРасходов.png" width="200"> | <img src="screenshots/Сравнение.png" width="200"> |
+| | **Редактирование** | **Удаление** |
+| | <img src="screenshots/Редактирование.png" width="200"> | <img src="screenshots/Удаление.png" width="200"> |
+
 
 </details>
 
