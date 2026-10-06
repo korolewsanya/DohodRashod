@@ -94,6 +94,14 @@ com.example.dohodrashod
 
 ---
 
+### 📥 Скачать
+
+Приложение можно скачать в RuStore:
+
+**https://www.rustore.ru/catalog/app/com.example.zapisnayakniga**
+
+---
+
 ### 📝 Лицензия
 
 MIT. Свободное использование в образовательных целях.
