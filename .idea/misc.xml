@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sanek/AndroidStudioProjects/DohodRashod/app/src/main/res/drawable/ic_baseline_clear_24.xml" value="0.3585" />
+        <entry key="..\:/Users/sanek/AndroidStudioProjects/DohodRashod/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3475" />
+        <entry key="..\:/Users/sanek/AndroidStudioProjects/DohodRashod/app/src/main/res/drawable/knopka.xml" value="0.1875" />
+        <entry key="..\:/Users/sanek/AndroidStudioProjects/DohodRashod/app/src/main/res/drawable/shape.xml" value="0.368" />
+        <entry key="..\:/Users/sanek/AndroidStudioProjects/DohodRashod/app/src/main/res/layout/glav.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/sanek/AndroidStudioProjects/DohodRashod/app/src/main/res/layout/list_ras.xml" value="0.1796875" />
+        <entry key="..\:/Users/sanek/AndroidStudioProjects/DohodRashod/app/src/main/res/layout/list_ras2.xml" value="0.1796875" />
+        <entry key="..\:/Users/sanek/AndroidStudioProjects/DohodRashod/app/src/main/res/layout/list_row.xml" value="0.1" />
+        <entry key="..\:/Users/sanek/AndroidStudioProjects/DohodRashod/app/src/main/res/layout/list_row2.xml" value="0.33242753623188404" />
+        <entry key="..\:/Users/sanek/AndroidStudioProjects/DohodRashod/app/src/main/res/layout/list_srav.xml" value="0.1" />
+        <entry key="..\:/Users/sanek/AndroidStudioProjects/DohodRashod/app/src/main/res/layout/prosm_doh.xml" value="0.1" />
+        <entry key="..\:/Users/sanek/AndroidStudioProjects/DohodRashod/app/src/main/res/layout/prosmot_doh.xml" value="0.33242753623188404" />
+        <entry key="..\:/Users/sanek/AndroidStudioProjects/DohodRashod/app/src/main/res/layout/prosmot_ras.xml" value="0.1796875" />
+        <entry key="..\:/Users/sanek/AndroidStudioProjects/DohodRashod/app/src/main/res/layout/redact_doh.xml" value="0.25226449275362317" />
+        <entry key="..\:/Users/sanek/AndroidStudioProjects/DohodRashod/app/src/main/res/layout/redact_ras.xml" value="0.1796875" />
+        <entry key="..\:/Users/sanek/AndroidStudioProjects/DohodRashod/app/src/main/res/layout/soh_doh.xml" value="0.1" />
+        <entry key="..\:/Users/sanek/AndroidStudioProjects/DohodRashod/app/src/main/res/layout/soh_ras.xml" value="0.1796875" />
+        <entry key="..\:/Users/sanek/AndroidStudioProjects/DohodRashod/app/src/main/res/layout/soz_papki.xml" value="0.1796875" />
+        <entry key="..\:/Users/sanek/AndroidStudioProjects/DohodRashod/app/src/main/res/layout/soz_papki_ras.xml" value="0.1796875" />
+        <entry key="..\:/Users/sanek/AndroidStudioProjects/DohodRashod/app/src/main/res/layout/sravni.xml" value="0.1" />
+        <entry key="..\:/Users/sanek/AndroidStudioProjects/DohodRashod/app/src/main/res/layout/ud_doh.xml" value="0.1796875" />
+        <entry key="..\:/Users/sanek/AndroidStudioProjects/DohodRashod/app/src/main/res/layout/ud_ras.xml" value="0.1796875" />
+        <entry key="..\:/Users/sanek/AndroidStudioProjects/DohodRashod/app/src/main/res/layout/wod_ras.xml" value="0.1796875" />
+        <entry key="..\:/Users/sanek/AndroidStudioProjects/DohodRashod/app/src/main/res/layout/woddoh.xml" value="0.24954710144927536" />
+        <entry key="..\:/Users/sanek/AndroidStudioProjects/DohodRashod/app/src/main/res/menu/main_menu.xml" value="0.3671875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

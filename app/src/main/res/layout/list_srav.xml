@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/texMonth"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintWidth_default="percent"
+        app:layout_constraintWidth_percent="0.5"
+        android:background="@drawable/shape"
+        android:paddingLeft="5dp"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/texDoh"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintLeft_toRightOf="@+id/texMonth"
+        app:layout_constraintWidth_default="percent"
+        app:layout_constraintWidth_percent="0.25"
+        android:textColor="#006400"
+        android:background="@drawable/shape"
+        android:paddingLeft="5dp"
+        android:textSize="20sp"/>
+    <TextView
+        android:id="@+id/texRash"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintLeft_toRightOf="@+id/texDoh"
+        app:layout_constraintWidth_default="percent"
+        app:layout_constraintWidth_percent="0.25"
+        android:textColor="#D50000"
+        android:background="@drawable/shape"
+        android:paddingLeft="5dp"
+        android:textSize="20sp"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

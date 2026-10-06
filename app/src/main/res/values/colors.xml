@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="knopka">#33cc66</color>
+    <color name="knopka2">#FF4444</color>
+    <color name="knopka3">#0099CC</color>
+    <color name="toast">#FFBB33</color>
+</resources>

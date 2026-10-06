@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.dohodrashod">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Доходы и Расходы"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".UdRas"
+            android:exported="false" />
+        <activity
+            android:name=".RedactRas"
+            android:exported="false" />
+        <activity
+            android:name=".ProsmotRas"
+            android:exported="false" />
+        <activity
+            android:name=".SozPapkiRas"
+            android:exported="false" />
+        <activity
+            android:name=".SohRas"
+            android:exported="false" />
+        <activity
+            android:name=".WodRas"
+            android:exported="false" />
+        <activity
+            android:name=".ProsmotDoh"
+            android:exported="false" />
+        <activity
+            android:name=".Sravni"
+            android:exported="false" />
+        <activity
+            android:name=".RedactDoh"
+            android:exported="false" />
+        <activity
+            android:name=".SozPapki"
+            android:exported="false" />
+        <activity android:name=".UdDoh" />
+        <activity android:name=".SohDoh" />
+        <activity android:name=".WodDoh" />
+        <activity android:name=".Glav">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

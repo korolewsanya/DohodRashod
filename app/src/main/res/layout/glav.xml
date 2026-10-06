@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Glav">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/b1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="#009C27B0"
+            android:gravity="left|center"
+            android:onClick="Doh"
+            android:paddingLeft="10dp"
+            android:text="доходы"
+            android:textAllCaps="true"
+            android:textColor="#086E0C"
+            android:textSize="36sp"
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.2"
+            android:background="#FF9800"
+            android:gravity="center"
+            android:text="И"
+            android:textAlignment="center"
+            android:textAllCaps="false"
+            android:textColor="#100101"
+            android:textSize="30sp"
+            android:textStyle="normal|bold|italic" />
+
+       <Button
+            android:id="@+id/b2"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="#00BCD4"
+            android:gravity="right|center"
+            android:onClick="Ras"
+            android:text="расходы"
+            android:textAllCaps="true"
+            android:textColor="#D60404"
+            android:textSize="36sp"
+            android:textStyle="bold|italic"
+            android:paddingRight="10dp"/>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

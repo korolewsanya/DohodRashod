@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SohDoh">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:text="К какому доходу относится введённая сумма?"
+                android:textColor="@android:color/holo_red_dark"
+                android:textSize="24dp"
+                android:layout_weight="0.7"/>
+
+            <ListView
+                android:id="@+id/lv"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_marginTop="5dp"
+                android:scrollbars="vertical"
+                android:layout_weight="1"/>
+
+        <!-- Это добавляет границу между ListViews -->
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#DDDDDD" />
+            <ListView
+                android:id="@+id/lv2"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:scrollbars="vertical"
+                android:layout_weight="4"/>
+
+            <Button
+                android:id="@+id/b"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:text="Создать новую папку"
+                android:onClick="add"
+                android:layout_marginBottom="10dp"
+                android:layout_weight="0.6"/>
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
