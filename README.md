@@ -71,21 +71,6 @@
 
 ### 📂 Структура проекта
 
-```
-com.example.dohodrashod
-├── Glav.java                — главный экран
-├── WodDoh / WodRas          — ввод дохода/расхода
-├── SohDoh / SohRas          — выбор категории
-├── SozPapki / SozPapkiRas   — создание категории
-├── ProsmotDoh / ProsmotRas  — просмотр записей
-├── RedactDoh / RedactRas    — редактирование
-├── UdDoh / UdRas            — удаление (в т.ч. массовое)
-├── Sravni.java              — сравнение
-├── DatabaseHelper.java      — работа с SQLite
-├── CustomDialog.java        — диалог «пустое поле»
-└── CustomDialog2.java       — диалог «неверная дата»
-```
-
 ---
 
 ### 📌 О проекте
@@ -98,7 +83,7 @@ com.example.dohodrashod
 
 Приложение можно скачать в RuStore:
 
-**https://www.rustore.ru/catalog/app/com.example.zapisnayakniga**
+**https://www.rustore.ru/catalog/app/com.example.dohodrashod**
 
 ---
 
